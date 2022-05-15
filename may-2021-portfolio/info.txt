@@ -1,0 +1,13 @@
+Libraries installed:
+    - emailjs/browser
+    - fontawesome brands svg icons
+    - fontawesome free solid svg icons
+    - fontawesome react fontawesome
+    - animate.css
+    - gsap trial (advanced animations)
+    - loaders.css
+    - react loaders
+    - react router dom
+    - sass :) 
+    
+            loosely following https://www.youtube.com/watch?v=bmpI252DmiI
